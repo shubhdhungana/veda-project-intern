@@ -1,0 +1,2623 @@
+.home .paw-prints {
+  overflow-wrap: break-word;
+  font-family: "Oleo Script";
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.4;
+  color: #8b4513;
+}
+.home .logos-2 {
+  margin: 0.4rem 2.1rem 0.4rem 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home .menu-11 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #000000;
+}
+.home .vector-15 {
+  width: 0.5rem;
+  height: 0.2rem;
+}
+.home .chevron {
+  margin: 0.9rem 0;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.home .menu {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .menu-12 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #000000;
+}
+.home .vector-16 {
+  width: 0.5rem;
+  height: 0.2rem;
+}
+.home .chevron-1 {
+  margin: 0.9rem 0;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.home .menu-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .menu-13 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #000000;
+}
+.home .vector-17 {
+  width: 0.5rem;
+  height: 0.2rem;
+}
+.home .chevron-2 {
+  margin: 0.9rem 0;
+  display: flex;
+  width: 0.8rem;
+  height: 0.8rem;
+  box-sizing: border-box;
+}
+.home .menu-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .menu-14 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #000000;
+}
+.home .menu-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.home .frame-2 {
+  border-left: 0.1rem solid #e9e0e0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.5rem 1.5rem 0.5rem 1.4rem;
+  width: 40.4rem;
+  box-sizing: border-box;
+}
+.home .frame-4 {
+  margin: 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .menu-15 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #8b4513;
+}
+.home .button-7 {
+  border-radius: 0.5rem;
+  border: 0.1rem solid #8b4513;
+  margin-right: 1rem;
+  display: flex;
+  padding: 0.9rem 0rem 0.9rem 0;
+  width: 10.3rem;
+  box-sizing: border-box;
+}
+.home .menu-16 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .button-8 {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  padding: 1rem 0rem 1rem 0;
+  width: 8.9rem;
+  box-sizing: border-box;
+}
+.home .frame-3 {
+  display: flex;
+  flex-direction: row;
+  width: 20.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .navigation {
+  border-radius: 1rem;
+  background: #ffffff;
+  margin: 0 0 6.8rem 10.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  padding: 1.3rem 1.5rem 1.3rem 1.8rem;
+  width: 88.8rem;
+  box-sizing: border-box;
+}
+.home .vector-13 {
+  width: 0.8rem;
+  height: 0.4rem;
+}
+.home .frame-7 {
+  border-radius: 6.3rem;
+  background: rgba(255, 255, 255, 0.5);
+  margin-bottom: 1rem;
+  display: flex;
+  padding: 1.4rem 1.2rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  box-sizing: border-box;
+}
+.home .vector-14 {
+  width: 0.8rem;
+  height: 0.4rem;
+}
+.home .frame-8 {
+  border-radius: 6.3rem;
+  background: rgba(255, 255, 255, 0.5);
+  display: flex;
+  padding: 1.4rem 1.2rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  box-sizing: border-box;
+}
+.home .arrow {
+  margin: 15.7rem 7.1rem 15.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 3.3rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home .saving-lives-every-day {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #000000;
+}
+.home .saving-lives-of-cats-and-dogs-across-world {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-1-font-family, "Montserrat");
+  font-weight: var(--heading-h-1-font-weight, 700);
+  font-size: var(--heading-h-1-font-size, 3.4rem);
+  line-height: var(--heading-h-1-line-height, 1.3);
+  color: #000000;
+}
+.home .frame-105 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .we-advocate-for-vulnerable-animals-providing-safety-while-promoting-responsible-pet-ownership-we-uplift-both-animals-and-communities-4 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #000000;
+}
+.home .frame-6 {
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-10 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .vector-12 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-10 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-6 {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 1rem 0;
+  width: 11.6rem;
+  box-sizing: border-box;
+}
+.home .hero-text {
+  margin: 7.8rem 15.1rem 8.1rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .rectangle-2 {
+  border-radius: 62.5rem 62.5rem 0 0;
+  border: 0.5rem solid #ffffff;
+  background: #110227;
+  position: relative;
+  width: 26.3rem;
+  height: 35rem;
+}
+.home .animal-shelter-img-511 {
+  background: url("assets/images/AnimalShelterImg51.png") 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 0rem;
+  translate: -50% 0;
+  width: 21.8rem;
+  height: 34.8rem;
+}
+.home .hero-image {
+  position: relative;
+  display: flex;
+  width: 26.3rem;
+  height: 38.9rem;
+  box-sizing: border-box;
+}
+.home .container-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .hero {
+  background: #93ceaa;
+  margin-bottom: 7rem;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 6.8rem 5.3rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .who-we-are-and-our-mission {
+  margin: 0 0rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #8b4513;
+}
+.home .about-our-shelter-and-values {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-font-family, "Montserrat");
+  font-weight: var(--heading-h-2-font-weight, 500);
+  font-size: var(--heading-h-2-font-size, 2.6rem);
+  line-height: var(--heading-h-2-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-10 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .we-advocate-for-vulnerable-animals-providing-safety-while-promoting-responsible-pet-ownership-we-uplift-both-animals-and-communities {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .heading {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .your-donations-help-us-run-important-projects {
+  margin: 0 2rem 1.5rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-3-font-family, "Montserrat");
+  font-weight: var(--heading-h-3-font-weight, 500);
+  font-size: var(--heading-h-3-font-size, 2.3rem);
+  line-height: var(--heading-h-3-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home
+  .as-apioneer-of-the-no-kill-movement-paw-print-leads-the-way-with-national-and-international-programs-designed-to-increase-adoptions-and-raise-awareness-about-the-plight-of-homeless-animals-continuing-to-make-asignificant-impact {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.as-apioneer-of-the-no-kill-movement-paw-print-leads-the-way-with-national-and-international-programs-designed-to-increase-adoptions-and-raise-awareness-about-the-plight-of-homeless-animals-continuing-to-make-asignificant-impact-sub2 {
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.333;
+}
+.home .frame-12 {
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-4 {
+  margin-right: 0.7rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .vector {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-1 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 1rem 0;
+  width: 15.1rem;
+  box-sizing: border-box;
+}
+.home .frame-13 {
+  margin: 2.5rem 9.3rem 2.5rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .rectangle-4 {
+  border-radius: 0.5rem;
+  background: url("assets/images/Rectangle4.jpeg") 50% / cover no-repeat,
+    linear-gradient(#d9d9d9, #d9d9d9);
+  width: 46.7rem;
+  height: 26.9rem;
+}
+.home .content {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .about-us {
+  margin-bottom: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ahelp-to-those-who-need-it {
+  margin: 0 0.1rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #8b4513;
+}
+.home .each-donation-is-an-essential {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-font-family, "Montserrat");
+  font-weight: var(--heading-h-2-font-weight, 500);
+  font-size: var(--heading-h-2-font-size, 2.6rem);
+  line-height: var(--heading-h-2-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-101 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .we-advocate-for-vulnerable-animals-providing-safety-while-promoting-responsible-pet-ownership-we-uplift-both-animals-and-communities-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .heading-1 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .rectangle-5 {
+  background: url("assets/images/Rectangle51.jpeg") 50% / cover no-repeat,
+    linear-gradient(#d9d9d9, #d9d9d9);
+  width: 28.3rem;
+  height: 18.9rem;
+}
+.home .goal-1340 {
+  margin-right: 0.8rem;
+  width: 7.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.goal-1340-sub6 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-1340-sub11 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-1340 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .raised-800 {
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.raised-800-sub7 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-800-sub12 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-800 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .frame-38 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 24.3rem;
+  box-sizing: border-box;
+}
+.home .rectangle-6 {
+  border-radius: 6.3rem;
+  border-left: 11.3rem solid #8b4513;
+  background: var(--border, #e6e6e6);
+  position: absolute;
+  left: 50%;
+  top: 0.7rem;
+  translate: -50% 0;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .container {
+  overflow-wrap: break-word;
+  font-family: var(--bodyextra-sm-font-family, "Work Sans");
+  font-weight: var(--bodyextra-sm-font-weight, 400);
+  font-size: var(--bodyextra-sm-font-size, 0.8rem);
+  line-height: var(--bodyextra-sm-line-height, 1.8);
+  color: var(--white, #ffffff);
+}
+.home .frame-371 {
+  border-radius: 0.1rem;
+  background: #8b4513;
+  position: absolute;
+  right: 10.6rem;
+  bottom: 0rem;
+  display: flex;
+  padding: 0.1rem 0.6rem 0.1rem 0.5rem;
+  box-sizing: border-box;
+}
+.home .frame-37 {
+  position: relative;
+  margin-right: 0.2rem;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .frame-39 {
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.1rem 1.8rem 1.4rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .new-chance-for-animals {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .view-details {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: #8b4513;
+}
+.home .vector-1 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-2 {
+  margin: 0.5rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .link {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-40 {
+  background: var(--white, #ffffff);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-41 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .card {
+  box-shadow: 0rem 0rem 1rem 0rem rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .rectangle-51 {
+  background: url("assets/images/Rectangle5.jpeg") 50% / cover no-repeat,
+    linear-gradient(#d9d9d9, #d9d9d9);
+  width: 28.3rem;
+  height: 18.9rem;
+}
+.home .goal-13401 {
+  margin-right: 0.8rem;
+  width: 7.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.goal-13401-sub6 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13401-sub11 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13401 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .raised-8001 {
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.raised-8001-sub7 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-8001-sub12 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-8001 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .frame-381 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 24.3rem;
+  box-sizing: border-box;
+}
+.home .rectangle-61 {
+  border-radius: 6.3rem;
+  border-left: 11.3rem solid #8b4513;
+  background: var(--border, #e6e6e6);
+  position: absolute;
+  left: 50%;
+  top: 0.7rem;
+  translate: -50% 0;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyextra-sm-font-family, "Work Sans");
+  font-weight: var(--bodyextra-sm-font-weight, 400);
+  font-size: var(--bodyextra-sm-font-size, 0.8rem);
+  line-height: var(--bodyextra-sm-line-height, 1.8);
+  color: var(--white, #ffffff);
+}
+.home .frame-373 {
+  border-radius: 0.1rem;
+  background: #8b4513;
+  position: absolute;
+  right: 10.6rem;
+  bottom: 0rem;
+  display: flex;
+  padding: 0.1rem 0.6rem 0.1rem 0.5rem;
+  box-sizing: border-box;
+}
+.home .frame-372 {
+  position: relative;
+  margin-right: 0.2rem;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .frame-391 {
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.1rem 1.8rem 1.4rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .help-the-eco-system {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-1 {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .view-details-1 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: #8b4513;
+}
+.home .vector-2 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-3 {
+  margin: 0.5rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .link-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-401 {
+  background: var(--white, #ffffff);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-411 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .card-1 {
+  box-shadow: 0rem 0rem 1rem 0rem rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .rectangle-52 {
+  background: url("assets/images/Rectangle52.jpeg"),
+    linear-gradient(#d9d9d9, #d9d9d9);
+  width: 28.3rem;
+  height: 18.9rem;
+}
+.goal-13402-sub6 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13402-sub11 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13402 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .goal-13402 {
+  margin-right: 0.8rem;
+  width: 7.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.raised-8002 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .raised-8002 {
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.raised-8002-sub7 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-8002-sub12 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .frame-382 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 24.3rem;
+  box-sizing: border-box;
+}
+.home .rectangle-62 {
+  border-radius: 6.3rem;
+  border-left: 11.3rem solid #8b4513;
+  background: var(--border, #e6e6e6);
+  position: absolute;
+  left: 50%;
+  top: 0.7rem;
+  translate: -50% 0;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyextra-sm-font-family, "Work Sans");
+  font-weight: var(--bodyextra-sm-font-weight, 400);
+  font-size: var(--bodyextra-sm-font-size, 0.8rem);
+  line-height: var(--bodyextra-sm-line-height, 1.8);
+  color: var(--white, #ffffff);
+}
+.home .frame-375 {
+  border-radius: 0.1rem;
+  background: #8b4513;
+  position: absolute;
+  right: 10.6rem;
+  bottom: 0rem;
+  display: flex;
+  padding: 0.1rem 0.6rem 0.1rem 0.5rem;
+  box-sizing: border-box;
+}
+.home .frame-374 {
+  position: relative;
+  margin-right: 0.2rem;
+  width: 24.3rem;
+  height: 0.4rem;
+}
+.home .frame-392 {
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.1rem 1.8rem 1.4rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .new-sustainability {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2 {
+  margin-bottom: 1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .view-details-2 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: #8b4513;
+}
+.home .vector-3 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-4 {
+  margin: 0.5rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .link-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-402 {
+  background: var(--white, #ffffff);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-412 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .card-2 {
+  box-shadow: 0rem 0rem 1rem 0rem rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  background: var(--primary-light, #fdf7f4);
+  display: flex;
+  flex-direction: column;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .frame-42 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-5 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .vector-4 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-5 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-1 {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+  width: 14.6rem;
+  box-sizing: border-box;
+}
+.home .cause {
+  background: var(--primary-light, #fdf7f4);
+  margin-bottom: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7rem 0;
+  width: 120rem;
+  box-sizing: border-box;
+}
+.home .frame-44 {
+  border-radius: 0.5rem;
+  background: url("assets/images/Frame44.jpeg") 50% / cover no-repeat,
+    linear-gradient(#fdf7f4, #fdf7f4);
+  margin-right: 9.6rem;
+  width: 28.3rem;
+  height: 41.8rem;
+}
+.home .ahelp-to-those-who-need-it-1 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #8b4513;
+}
+.home .transform-lives-with-donations {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-font-family, "Montserrat");
+  font-weight: var(--heading-h-2-font-weight, 500);
+  font-size: var(--heading-h-2-font-size, 2.6rem);
+  line-height: var(--heading-h-2-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-102 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .your-donation-can-save-lives-help-us-provide-care-and-find-loving-homes-for-rescued-animals-every-contribution-counts-donate-now {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .heading-2 {
+  margin: 0 4.3rem 3.5rem 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .rectangle-63 {
+  border-radius: 6.3rem;
+  border-left: 28.8rem solid #8b4513;
+  background: var(--border, #e6e6e6);
+  position: absolute;
+  left: 50%;
+  top: 0.7rem;
+  translate: -50% 0;
+  width: 50.9rem;
+  height: 0.5rem;
+}
+.home .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyextra-sm-font-family, "Work Sans");
+  font-weight: var(--bodyextra-sm-font-weight, 400);
+  font-size: var(--bodyextra-sm-font-size, 0.8rem);
+  line-height: var(--bodyextra-sm-line-height, 1.8);
+  color: var(--white, #ffffff);
+}
+.home .frame-377 {
+  border-radius: 0.1rem;
+  background: #8b4513;
+  position: absolute;
+  right: 20.3rem;
+  bottom: 0rem;
+  display: flex;
+  padding: 0.1rem 0.6rem 0.1rem 0.5rem;
+  box-sizing: border-box;
+}
+.home .frame-376 {
+  position: relative;
+  margin: 0 0.2rem 0.5rem 0;
+  width: 50.9rem;
+  height: 0.5rem;
+}
+.home .goal-13403 {
+  margin-right: 0.8rem;
+  width: 8.4rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.goal-13403-sub17 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13403-sub15 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.goal-13403 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .raised-8003 {
+  overflow-wrap: break-word;
+  font-family: var(--bodycaps-font-family, "Work Sans");
+  font-weight: var(--bodycaps-font-weight, 500);
+  font-size: var(--bodycaps-font-size, 0.9rem);
+  letter-spacing: var(--bodycaps-letter-spacing, 0.1rem);
+  line-height: var(--bodycaps-line-height, 1.8);
+  text-transform: var(--bodycaps-text-transform, uppercase);
+  color: var(--hcolor, #0a0117);
+}
+.raised-8003-sub11 {
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-8003-sub18 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.raised-8003 {
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.333;
+  text-transform: uppercase;
+}
+.home .frame-383 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 50.9rem;
+  box-sizing: border-box;
+}
+.home .frame-45 {
+  margin-bottom: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50.9rem;
+  box-sizing: border-box;
+}
+.home .container-4 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--body, #696f8c);
+}
+.home .frame-47 {
+  margin: 0.9rem 1.6rem 0.9rem 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.home .container-5 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--body, #696f8c);
+}
+.home .frame-46 {
+  border-left: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 1rem 3.7rem 1rem 0;
+  width: 9.4rem;
+  box-sizing: border-box;
+}
+.home .frame-48 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 13.1rem;
+  box-sizing: border-box;
+}
+.home .container-6 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-461 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 0.9rem 0rem 0.9rem 0;
+  width: 6.9rem;
+  box-sizing: border-box;
+}
+.home .container-7 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-49 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 0.9rem 0.1rem 0.9rem 0;
+  width: 7.1rem;
+  box-sizing: border-box;
+}
+.home .container-8 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-501 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 0.9rem 0rem 0.9rem 0;
+  width: 7.1rem;
+  box-sizing: border-box;
+}
+.home .container-9 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-51 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 0.9rem 0rem 0.9rem 0;
+  width: 7.6rem;
+  box-sizing: border-box;
+}
+.home .container-10 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-52 {
+  border-radius: 0.3rem;
+  border: 0.1rem solid var(--border, #e6e6e6);
+  display: flex;
+  padding: 0.9rem 0rem 0.9rem 0;
+  width: 7.8rem;
+  box-sizing: border-box;
+}
+.home .frame-50 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 0.5rem;
+  width: 38.4rem;
+  box-sizing: border-box;
+}
+.home .frame-53 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  width: 50.9rem;
+  box-sizing: border-box;
+}
+.home .menu-6 {
+  margin-right: 0.7rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .vector-5 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-6 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-2 {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 1rem 0;
+  width: 13.3rem;
+  box-sizing: border-box;
+}
+.home .frame-54 {
+  margin: 3.4rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .pawprints {
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.2;
+  color: #ffffff;
+}
+.home .logos {
+  border-radius: 0.5rem;
+  background: #000000;
+  position: absolute;
+  left: 25.7rem;
+  bottom: 2rem;
+  display: flex;
+  padding: 0rem 0.1rem 0rem 0;
+  width: 11.7rem;
+  box-sizing: border-box;
+}
+.home .donation {
+  position: relative;
+  margin: 0 0 7rem 0.2rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.home .calender {
+  margin: 0 0rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #8b4513;
+}
+.home .event-schedule {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-font-family, "Montserrat");
+  font-weight: var(--heading-h-2-font-weight, 500);
+  font-size: var(--heading-h-2-font-size, 2.6rem);
+  line-height: var(--heading-h-2-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-103 {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .we-advocate-for-vulnerable-animals-providing-safety-while-promoting-responsible-pet-ownership-we-uplift-both-animals-and-communities-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .heading-3 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .container-11 {
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 1.3;
+  color: var(--hcolor, #0a0117);
+}
+.home .june {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: var(--body, #696f8c);
+}
+.home .frame-56 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .disaster-relief-for-animals {
+  margin-bottom: 2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .am-1000-pm {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .kathmandu {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-59 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-60 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-641 {
+  border-radius: 0.5rem;
+  background: #fbefe9;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .container-12 {
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 1.3;
+  color: var(--hcolor, #0a0117);
+}
+.home .june-1 {
+  margin-right: 0.1rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: var(--body, #696f8c);
+}
+.home .frame-561 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .rapid-response-for-animals {
+  margin-bottom: 2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .am-1000-pm-1 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .kathmandu-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-591 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-601 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-62 {
+  border-radius: 0.5rem;
+  background: #fbefe9;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .container-13 {
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 3.5rem;
+  line-height: 1.3;
+  color: var(--hcolor, #0a0117);
+}
+.home .june-2 {
+  margin-right: 0.2rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: var(--body, #696f8c);
+}
+.home .frame-562 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .disaster-relief-for-animals-1 {
+  margin-bottom: 2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-5-font-family, "Montserrat");
+  font-weight: var(--heading-h-5-font-weight, 500);
+  font-size: var(--heading-h-5-font-size, 1.6rem);
+  line-height: var(--heading-h-5-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .am-1000-pm-2 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .kathmandu-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-592 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-602 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .frame-63 {
+  border-radius: 0.5rem;
+  background: #fbefe9;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0 2rem 2rem;
+  width: 28.3rem;
+  box-sizing: border-box;
+}
+.home .frame-64 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-7 {
+  margin-right: 0.7rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #ffffff;
+}
+.home .vector-6 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-7 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-3 {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+  width: 10.9rem;
+  box-sizing: border-box;
+}
+.home .events {
+  background: var(--primary-light, #fdf7f4);
+  margin-bottom: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7rem 0;
+  width: 120rem;
+  box-sizing: border-box;
+}
+.home .testimonials-1 {
+  margin: 0 0.1rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.8;
+  text-transform: uppercase;
+  color: #8b4513;
+}
+.home .check-what-our-volunteers-are-saying {
+  overflow-wrap: break-word;
+  font-family: var(--heading-h-2-font-family, "Montserrat");
+  font-weight: var(--heading-h-2-font-weight, 500);
+  font-size: var(--heading-h-2-font-size, 2.6rem);
+  line-height: var(--heading-h-2-line-height, 1.3);
+  color: var(--hcolor, #0a0117);
+}
+.home .frame-104 {
+  margin: 0 2.8rem 1.5rem 2.8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home
+  .we-advocate-for-vulnerable-animals-providing-safety-while-promoting-responsible-pet-ownership-we-uplift-both-animals-and-communities-3 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--body, #696f8c);
+}
+.home .heading-4 {
+  margin: 0 0 3.5rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .rectangle-21 {
+  border-radius: 62.5rem 62.5rem 0 0;
+  background: url("assets/images/Rectangle21.jpeg") 50% / cover no-repeat,
+    linear-gradient(#faece5, #faece5);
+  width: 28.3rem;
+  height: 35rem;
+}
+.home .frame-70 {
+  margin-right: 8.3rem;
+  display: flex;
+  width: 24.9rem;
+  height: 36.8rem;
+  box-sizing: border-box;
+}
+.home .vector-18 {
+  width: 2.8rem;
+  height: 2.5rem;
+}
+.home .quote {
+  margin: 0 0.8rem 3.1rem 0.8rem;
+  display: flex;
+  align-self: flex-start;
+  width: 4.5rem;
+  height: 4.5rem;
+  box-sizing: border-box;
+}
+.home
+  .volunteering-with-fourpaws-is-incredibly-fulfilling-seeing-rescued-animals-thrive-is-rewarding-beyond-words-the-dedication-of-the-team-inspires-me-daily-and-this-experience-has-enriched-my-life-in-countless-meaningful-ways {
+  margin-bottom: 2rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: var(--hcolor, #0a0117);
+}
+.home .gal-g {
+  margin-bottom: 2rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  color: var(--hcolor, #0a0117);
+}
+.home .vector-19 {
+  width: 0.4rem;
+  height: 0.8rem;
+}
+.home .frame-66 {
+  border-radius: 6.3rem;
+  background: var(--primary-light, #fdf7f4);
+  margin-right: 1rem;
+  display: flex;
+  padding: 1.2rem 0 1.2rem 0rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  box-sizing: border-box;
+}
+.home .vector-20 {
+  width: 0.4rem;
+  height: 0.8rem;
+}
+.home .frame-71 {
+  border-radius: 6.3rem;
+  background: #8b4513;
+  display: flex;
+  padding: 1.2rem 0;
+  width: 3.3rem;
+  height: 3.3rem;
+  box-sizing: border-box;
+}
+.home .frame-67 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 7.5rem;
+  box-sizing: border-box;
+}
+.home .frame-68 {
+  margin: 6.3rem 0 3.6rem 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .component-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .testimonials {
+  margin: 0 0.5rem 8.8rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .ellipse-1 {
+  border-radius: 13.1rem;
+  position: absolute;
+  left: -32.2rem;
+  top: -16rem;
+  width: 26.3rem;
+  height: 26.3rem;
+}
+.home .ellipse-2 {
+  border-radius: 13.1rem;
+  position: absolute;
+  right: -30.7rem;
+  bottom: -18.3rem;
+  width: 26.3rem;
+  height: 26.3rem;
+}
+.home .get-involved {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.3;
+  color: var(--white, #ffffff);
+}
+.home
+  .our-work-is-made-possible-by-the-generosity-of-people-like-you-who-have-contributed-to-our-mission-to-improve-the-lives-of-all-animals {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: var(--white, #ffffff);
+}
+.home .heading-5 {
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-8 {
+  margin-right: 0.6rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #8b4513;
+}
+.home .vector-7 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-8 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-4 {
+  border-radius: 0.5rem;
+  background: var(--white, #ffffff);
+  margin-right: 1rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+  width: 21.1rem;
+  box-sizing: border-box;
+}
+.home .menu-9 {
+  margin-right: 0.7rem;
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.333;
+  color: #8b4513;
+}
+.home .vector-8 {
+  width: 0.8rem;
+  height: 0.6rem;
+}
+.home .arrow-9 {
+  margin: 0.4rem 0;
+  display: flex;
+  width: 1rem;
+  height: 1rem;
+  box-sizing: border-box;
+}
+.home .button-5 {
+  border-radius: 0.5rem;
+  background: var(--white, #ffffff);
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+  width: 21.2rem;
+  box-sizing: border-box;
+}
+.home .frame-73 {
+  margin: 0 3rem;
+  display: flex;
+  flex-direction: row;
+  width: 43.3rem;
+  box-sizing: border-box;
+}
+.home .frame-74 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .mask-group {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.home .animal-shelter-img-51 {
+  background: url("assets/images/AnimalShelterImg51.png") 50% / cover no-repeat;
+  position: absolute;
+  right: 1.1rem;
+  bottom: -3.2rem;
+  width: 12.8rem;
+  height: 20.4rem;
+}
+.home
+  .closeup-shot-cute-sitting-golden-retriever-puppy-isolated-white-surface-1 {
+  background: url("assets/images/CloseupShotCuteSittingGoldenRetrieverPuppyIsolatedWhiteSurface1.png")
+    50% / cover no-repeat;
+  position: absolute;
+  left: -3.3rem;
+  bottom: -7.4rem;
+  width: 24.6rem;
+  height: 24.6rem;
+}
+.home .cta {
+  border-radius: 0.5rem;
+  background: #8b4513;
+  position: relative;
+  margin-bottom: 7rem;
+  display: flex;
+  padding: 3.5rem 0;
+  width: 88.8rem;
+  box-sizing: border-box;
+}
+.home .text {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+.home .supporting-text {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #000000;
+}
+.home .text-and-supporting-text {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .text-1 {
+  overflow-wrap: break-word;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--gray-500, #667085);
+}
+.home .input {
+  box-shadow: var(--shadowxs, 0rem 0.1rem 0.1rem 0rem rgba(16, 24, 40, 0.05));
+  border-radius: 0.5rem;
+  border: 0.1rem solid var(--gray-300, #d0d5dd);
+  background: var(--white-1, #ffffff);
+  padding: 0.6rem 0.8rem;
+  box-sizing: border-box;
+}
+.home .input-field {
+  margin-right: 1rem;
+  width: 17.5rem;
+  box-sizing: border-box;
+}
+.home .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-md-medium-font-family, "Inter");
+  font-weight: var(--text-md-medium-font-weight, 500);
+  font-size: var(--text-md-medium-font-size, 1rem);
+  line-height: var(--text-md-medium-line-height, 1.5);
+  color: var(--white-1, #ffffff);
+}
+.home .button-base {
+  box-shadow: var(--shadowxs, 0rem 0.1rem 0.1rem 0rem rgba(16, 24, 40, 0.05));
+  border-radius: 0.5rem;
+  border: 0.1rem solid #8b4513;
+  background: #8b4513;
+  display: flex;
+  padding: 0.6rem 1.1rem;
+  box-sizing: border-box;
+}
+.home .button-9 {
+  border-radius: 0.5rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.home .email-capture {
+  margin: 0.6rem 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home .container {
+  background: #93ceaa;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1.5rem 0 1.6rem 0;
+  width: 120rem;
+  box-sizing: border-box;
+}
+.home .pawprints-1 {
+  overflow-wrap: break-word;
+  font-family: "Oleo Script";
+  font-weight: 700;
+  font-size: 1.9rem;
+  line-height: 1.2;
+  color: #353333;
+}
+.home .logos-1 {
+  margin-bottom: 3.5rem;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home .h-3-title {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+  color: #353333;
+}
+.home .about-us-1 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .get-involved-1 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .contact-us {
+  margin: 0 0.7rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .media {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .list {
+  margin-right: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .h-3-title-1 {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+  color: #353333;
+}
+.home .animal-safty {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .programs {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .events-1 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .alumni {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .list-1 {
+  margin-right: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-container-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .h-3-title-2 {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+  color: #353333;
+}
+.home .find-afamily {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .donation-1 {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .volunteer {
+  margin-bottom: 0.8rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .give-agift {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .list-2 {
+  margin-right: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .menu-container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home .h-3-title-3 {
+  overflow-wrap: break-word;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+  color: #353333;
+}
+.home .footer-list {
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home
+  .follow-us-on-social-media-to-find-out-the-latest-updates-on-our-progress {
+  margin-bottom: 1.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .vector-9 {
+  width: 1.1rem;
+  height: 1rem;
+}
+.home .twitter {
+  margin: 0rem 0;
+  display: flex;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.home .vector-10 {
+  width: 0.5rem;
+  height: 1rem;
+}
+.home .facebook {
+  margin-bottom: 0rem;
+  display: flex;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.home .vector-11 {
+  width: 1rem;
+  height: 1rem;
+}
+.home .insta {
+  display: flex;
+  width: 1.3rem;
+  height: 1.3rem;
+  box-sizing: border-box;
+}
+.home .social-media {
+  margin: 0 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 7.8rem;
+  box-sizing: border-box;
+}
+.home .information-detail-container {
+  margin-bottom: 3.6rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home .links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 88.8rem;
+  box-sizing: border-box;
+}
+.home .top {
+  border-bottom: 0.1rem solid var(--body, #696f8c);
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2.9rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home .copyright-2024-fourpaws-all-rights-reserved {
+  margin-right: 1rem;
+  width: 26.3rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .terms-of-service {
+  margin-right: 1rem;
+  width: 9.2rem;
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .security {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .sitemap {
+  overflow-wrap: break-word;
+  font-family: var(--bodyp-font-family, "Work Sans");
+  font-weight: var(--bodyp-font-weight, 400);
+  font-size: var(--bodyp-font-size, 1.1rem);
+  line-height: var(--bodyp-line-height, 1.8);
+  color: #353333;
+}
+.home .list-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 33.3rem;
+  box-sizing: border-box;
+}
+.home .bottom {
+  margin-right: 0rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 88.8rem;
+  box-sizing: border-box;
+}
+.home .footer {
+  background: #fdf7f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem 0 2rem 0;
+  width: 120rem;
+  box-sizing: border-box;
+}
+.home .group-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120rem;
+  box-sizing: border-box;
+}
+.home .content-1 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  display: flex;
+  padding-bottom: 0.1rem;
+  width: 120rem;
+  box-sizing: border-box;
+}
